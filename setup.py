@@ -12,6 +12,7 @@ setup(
         'seaborn',
         'pandas',
         'numba',
+        'tqdm'
         # Add other dependencies here
     ],
     entry_points={
